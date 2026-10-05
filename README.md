@@ -1,5 +1,7 @@
 # 🧪 Pilot MCP — Learn MCP in 10 Minutes
 
+> **Learning project.** A small personal exercise for learning MCP. It is not maintained and has no tests.
+
 > A minimal MCP server built to teach **what MCP is, how it works, and why it exists.**
 > No paid tool APIs. No prior knowledge needed. Works locally and in production.
 
